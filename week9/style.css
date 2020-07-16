@@ -1,0 +1,9 @@
+p {
+  background-color: var(--light);
+  max-width: 800px;
+}
+
+a {
+  background-color: var(--dark);
+  color: var(--teal);
+}
