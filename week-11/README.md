@@ -7,3 +7,7 @@ Demo for using Bootstrap to create a web page
 - Jumpstart a project
 - Quick prototypes
 - Responsive Grid
+
+**Libraries Used**
+
+- [Bootstrap](https://getbootstrap.com/)
